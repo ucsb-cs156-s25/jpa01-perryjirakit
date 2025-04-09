@@ -1,6 +1,6 @@
 # jpa01-perryjirakit
 
-Deployed at: https://jpa01-perryjirakit.dokku-15.cs.ucsb.edugit a
+Deployed at: https://jpa01-perryjirakit.dokku-15.cs.ucsb.edu
 
 
 # About this repo
